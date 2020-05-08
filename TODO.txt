@@ -1,0 +1,6 @@
+# menu principal;
+# segundo jogador;
+# armadilhas;
+# nivel de dificuldade;
+# diferentes modos de jogo;
+# lista de pontos;
